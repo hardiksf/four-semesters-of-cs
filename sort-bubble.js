@@ -1,3 +1,4 @@
+//bubble sort
 function bubbleSort(nums) {
     for (let j = 0; j < nums.length - 1;) {
         if (nums[j] > nums[j + 1]) {
